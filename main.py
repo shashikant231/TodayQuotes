@@ -10,8 +10,8 @@ with open("quotes.txt","r") as new_file:
 
 
         
-my_email = "trackeriss511@gmail.com"
-password = "domd1234"
+my_email = "youremail@gmail.com"
+password = "yourpassword"
 
 now = dt.datetime.now()
 weekday  = now.weekday()
